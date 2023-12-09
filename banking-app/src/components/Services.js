@@ -36,7 +36,6 @@ const servicesData = [
       "Flexible personal loan options with competitive rates and simple applications.",
     Icon: FaHandshake,
   },
-  // ... Add more banking services as needed
 ];
 
 const Services = () => {
